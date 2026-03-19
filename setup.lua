@@ -13,7 +13,7 @@ local scripts = {
     'autoTier.lua',
     'autoSpread.lua',
     'uninstall.lua',
-    'go.lua'
+    'start.lua'
 }
 
 -- BRANCH
